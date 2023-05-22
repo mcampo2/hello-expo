@@ -113,7 +113,7 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.helloexpo"
+    namespace 'expo.hello'
     defaultConfig {
         applicationId 'expo.hello'
         minSdkVersion rootProject.ext.minSdkVersion
